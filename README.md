@@ -1,4 +1,4 @@
-# 🧠 BashBaze Challenge  
+# BashBaze Challenge  
 
 > **Public repository** for Bash Shell Script Challenge solutions — created for the **TWS Community** and crafted with a **DevOps & Automation** mindset.
 
