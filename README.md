@@ -50,23 +50,3 @@ BashBaze-Challenge/
 │   └── README.md
 └── ...
 
----
-
-## ⚙️ Getting Started  
-
-> **Follow these simple steps to explore and run the BashBaze Challenge scripts.**
-
-**1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/SayujjataMalvade/BashBaze-Challenge.git
-cd BashBaze-Challenge
-
-
-
-
-
-📚 License
-
-This project is open-source and available under the MIT License.
-You’re welcome to fork, modify, and reuse these scripts for:
-🧩 Learning • ⚙️ DevOps Practice • ☁️ Real-world Automation
