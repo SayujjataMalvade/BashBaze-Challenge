@@ -11,7 +11,12 @@
   <img src="https://img.shields.io/badge/Linux-Automation-blue?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-Tools-green?style=for-the-badge&logo=devops&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Automation-FF9800?style=for-the-badge" />
+  <a href="https://github.com/SayujjataMalvade/BashBaze-Challenge/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+  </a>
 </p>
+
+---
 
 ---
 
