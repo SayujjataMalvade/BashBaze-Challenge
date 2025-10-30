@@ -4,19 +4,19 @@
 
 ---
 
-## 🏷️ Tech Stack & Focus  
+## Tech Stack and Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Automation-blue?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Tools-green?style=for-the-badge&logo=devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Automation-FF9800?style=for-the-badge" />
-  <a href="https://github.com/SayujjataMalvade/BashBaze-Challenge/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
-  </a>
-</p>
+This repository emphasizes practical Bash scripting for automation and DevOps environments.  
+It covers essential Linux and system administration skills, with a focus on real-world automation and workflow efficiency.
 
----
+**Core Areas:**
+- **Bash Scripting:** Writing efficient, maintainable, and reusable shell scripts.
+- **Linux Automation:** Managing and automating system operations, tasks, and services.
+- **DevOps Tools:** Applying scripting concepts to CI/CD, monitoring, and infrastructure management.
+- **Shell Automation:** Streamlining manual processes using command-line tools and automation logic.
+- **Version Control:** Maintaining clean, documented code with Git and GitHub workflows.
+- **Open Source License:** Distributed under the MIT License to encourage reuse and learning.
+
 
 ---
 
